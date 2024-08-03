@@ -29,7 +29,7 @@ const Footer = () => {
                         <Image src={right} alt="..." className='w-6 h-6 object-contain' />
                     </button>
                 </div>
-                <div className='w-full bg-[#263238] px-[165px] py-[64px] flex flex-wrap justify-between sm:justify-center
+                <div className='w-full bg-gray-800 px-[165px] py-[64px] flex flex-wrap justify-between sm:justify-center
                                  items-center gap-8 sm:px-4'>
                     <div className='w-auto flex flex-col gap-6'>
                         <Image src={logo} alt="..." className='w-[191px] h-[30px] object-contain' />
