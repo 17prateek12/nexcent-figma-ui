@@ -1,7 +1,7 @@
 import React from 'react';
 import icon1 from "../assets/Icon1.svg";
 import icon2 from "../assets/Icon2.svg";
-import icon3 from "../assets/icon3.svg";
+import icon3 from "../assets/Icon3.svg";
 import Image from 'next/image';
 
 const Component2 = () => {

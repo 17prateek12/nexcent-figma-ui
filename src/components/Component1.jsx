@@ -30,7 +30,7 @@ const Component1 = () => {
                         We have been working with some Fortune 500+ clients
                     </p>
                 </div>
-                <div className='relative w-[80%] overflow-hidden pt-12'>
+                <div className='relative w-[80%] overflow-hidden py-6 bg-[#f5f7fa]'>
                     <div className='flex animate-marquee sm:animate-marquee-fast'>
                         {logos.concat(logos).map((logo, index) => (
                             <div className='flex-shrink-0 flex-grow-0 flex px-12 sm:px-4' key={index}>
